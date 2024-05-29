@@ -1,9 +1,9 @@
-**Todo App**
+𝐓𝐨𝐝𝐨 𝐀𝐩𝐩
 
 Welcome to my Todo App, my first JavaScript project! This application allows you to add, manage, and keep track of your tasks effectively.
 
 
-**Features**
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 Add Tasks: Easily add new tasks to your to-do list.
 View Tasks: See all your tasks in one convenient list.
@@ -13,13 +13,13 @@ Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
 
 
-**Prerequisites**
+𝐏𝐫𝐞𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
 
 A web browser (e.g., Chrome, Firefox, Safari)
 Basic knowledge of HTML, CSS, and JavaScript
 
 
-**Usage**
+𝐔𝐬𝐚𝐠𝐞
 
 Adding a Task: Enter your task in the input field and click the "Add" button.
 Viewing Tasks: Your tasks will be displayed in a list below the input field.
